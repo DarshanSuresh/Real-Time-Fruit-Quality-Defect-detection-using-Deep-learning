@@ -1,0 +1,21 @@
+{
+  "classes": [
+    "bruise_defect",
+    "fresh",
+    "rot_defect",
+    "scab_defect"
+  ],
+  "class_to_idx": {
+    "bruise_defect": 0,
+    "fresh": 1,
+    "rot_defect": 2,
+    "scab_defect": 3
+  },
+  "real_total": 5000,
+  "synthetic_train_only": 4000,
+  "train_real": 3500,
+  "validation_real": 750,
+  "test_real": 750,
+  "training_seconds": 27789.330903053284,
+  "device": "mps"
+}
